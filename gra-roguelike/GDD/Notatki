@@ -1,0 +1,51 @@
+siatka:
+- kwadratowa
+- skosy lub nie, traktowanie skosow tak samo jak chodzenie poziomo i pionowo
+- tablica dwuwymiarowa, 
+- grupy obiektów (nic, aktorzy, scenografia, rekwizyty), różne metody
+- nic powinno się zastąpić scenografią
+- bariera na granicach map
+- mapa: dwuwymiarowa tablica elementów scenografi
+- wskaźniki mapy(przechowywanie info na mapie) lub współrzędne bohatera(przechowywanie info na graczu) - sposób na oznaczenie pustości pola - połączenie dwóch naj
+- rekwizyty - lepiej dziala info na mapie
+
+
+
+class Świat:
+    poziomy : [Poziom]
+
+class Poziom:
+    pola : [Pole]
+
+class Pole:
+    wskaźnik_na_aktora : Aktor | None
+    lista_przedmiotów : [Rekwizyt]
+
+class Aktor:
+    współrzędne
+    ekwipunek: [Rekwizyt]
+
+class Rekwizyt:
+    ...
+
+
+aktorzy:
+- cechy: życie [int], atak[int], zdolnosci[Zdolnosc]
+- nie jedna wartosc ale dwie np. bazowa i aktualna
+class Cecha:
+    bazowa : int
+    aktualna : wyliczana
+
+
+
+turowość:
+1 tura to 1 akcja
+akcje: atak, ruch, użycie przedmiotu/zdolnosci, podniesienie przedmiotu
+- pewne czynności mogą trwać pare tur - dwie możliwości: przerwanie czynności i zmarnowanie tur lub brak kontroli nad turami i czynność zawsze musi być dokończona
+
+losowość:
+
+walka:
+-zatak zawsze trafia i zadaje stałe obrażenia
+-cecha od ktorej zalezy sktuczenosc trafienia: smialosc
+-cecha od ktorej zalezy ilosc zadanych obrazen: inteligencja, manipulacja
