@@ -1,3 +1,0 @@
-C:/Users/melka/OneDrive/Pulpit/studia 2/gry/roguelike/gra-roguelike/lotr/cmake-build-debug/CMakeFiles/lotr.dir
-C:/Users/melka/OneDrive/Pulpit/studia 2/gry/roguelike/gra-roguelike/lotr/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/melka/OneDrive/Pulpit/studia 2/gry/roguelike/gra-roguelike/lotr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
