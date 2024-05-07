@@ -37,7 +37,7 @@
 
 - **EGO** - overall statistic, each win boosts Emma's EGO. Allows allocating points to other statistics.
 
-#Traits: 
+# Traits: 
 
 - **MANIPULATION**
 
