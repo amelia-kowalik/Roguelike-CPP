@@ -5,135 +5,136 @@
   </div>
 
 
-## Kontekst gry ⋆˚✿˖°
+## Game Context ⋆˚✿˖°
 
-*Emma to młoda dziewczyna, która podczas wydarzenia towarzyskiego odbywającego się w pałacu wyrusza w podróż po jego zakamarkach w celu znalezienia pomieszczenia gdzie przebywa Książe, w międzyczasie Emma atakuje każdego napotkanego mężczyzne, ponieważ nie może powstrzymać swojego ego przed zdobywaniem wielbicieli.*
+*Emma is a young woman who embarks on a journey through the nooks and crannies of a palace during a social event to find the room where the Prince is located. Meanwhile, she attacks every man she encounters because she can't restrain her ego from winning admirers.*
 
   
 
-## Plan ♡₊˚ 🦢・₊✧
+## Gameplay Plan ♡₊˚ 🦢・₊✧
 
-- Podróż roczpoczyna się w sali balowej
+- The journey begins in the ballroom.
 
-- Walki wręcz zastąpione są **dialogiem**
+- Physical fights are replaced with **dialogue**.
 
-- Emma próbuje **zdobywać wielbicieli**, a oni próbują nie zostać zdobyci
+- Emma tries to **gain admirers**, while they try not to be won over.
 
-- Mapa do gry to wiele pięter i różne pokoje w pałacu
+- The game map consists of multiple floors and various rooms in the palace.
 
-- Możliwe jest znalezienie przedmiotów, które **ułatwiają zmanipulowanie** ofiar
+- Finding items that **facilitate manipulation** of victims is possible.
 
-- Emma staje się silniejsza z każdym zdobytym wielbicielem **(EGO)**
+- Emma becomes stronger with each admirer gained **(EGO)**.
 
-- Zwiększanie swojego EGO zwiększa szanse na zdobycie Księcia
+- Increasing her EGO increases the chances of winning over the Prince.
 
-- Cel gry to dostanie się do pokoju, w którym znajduje się **Ksiażę** i "pokonanie go"
+- The goal of the game is to reach the room where the **Prince** is and "defeat" him.
 
-- Emma posiada 3 szanse
+- Emma has 3 chances.
 
-- **Permadeath** to ostateczne odrzucenie (powoduje omdlenie)
+- **Permadeath** results in ultimate rejection (causes fainting).
 
-## Cechy bohaterki ࿐ ࿔*:･ﾟ
+## Protagonist Traits ࿐ ࿔*:･ﾟ
 
-- **EGO** - ogólna statystyka, każda wygrana Emmy sprawia, że level upuje swoje EGO. Umożliwia przyznawanie punktów do pozostałych statystyk.
+- **EGO** - overall statistic, each win boosts Emma's EGO. Allows allocating points to other statistics.
 
-#Cechy: 
+#Traits: 
 
-- **MANIPULACJA**
+- **MANIPULATION**
 
-- **UROK**
+- **CHARM**
 
-- **CHARYZMA**
+- **CHARISMA**
 
-- **INTELIGENCJA**
+- **INTELLIGENCE**
 
 
-## Ekwipunek ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+## Inventory ˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
-_Emma posiada małą sakiewkę, w której mieszczą się tylko **3 przedmioty**. Kombinacje tych przedmiotów wzmacniają EGO Emmy w różny sposób._
+_Emma has a small pouch that can hold only **3 items**. Combinations of these items strengthen Emma's EGO in different ways._
 
-# Itemy ✧˖° :
+# Items ✧˖° :
 
-- perfumy (+4 punkty do MANIPULACJI) **VERY RARE**
+- perfume (+4 points to MANIPULATION) **VERY RARE**
 
-- wachlarz (+3 punkty do CHARYZMY) **RARE**
+- fan (+3 points to CHARM) **RARE**
 
-- rękawiczki (+1 punkty do UROKU) **COMMON**
+- gloves (+1 point to CHARM) **COMMON**
 
-- szal (+2 punkty do UROKU) **UNCOMMON**
+- shawl (+2 points to CHARM) **UNCOMMON**
 
-- róż (+2 punkt do UROKU) **UNCOMMON**
+- rose (+2 points to CHARM) **UNCOMMON**
 
-- chusteczka (+1 do CHARYZMY) **COMMON**
+- handkerchief (+1 point to CHARISMA) **COMMON**
 
-- herbata z hibiskusa (+1 punkt SZANSY) **EPIC**
+- hibiscus tea (+1 point to CHANCE) **EPIC**
 
-- książka Frances Burney (+3 punkty do INTELIGENCJI) **RARE**
+- Frances Burney's book (+3 points to INTELLIGENCE) **RARE**
 
-- narcyz (kwiatek) (+1 punkty do MANIPULACJI) **COMMON**
+- narcissus (flower) (+1 point to MANIPULATION) **COMMON**
 
-- rysunki Emmy (+2 punkty do INTELIGENCJI) **UNCOMMON**
+- Emma's drawings (+2 points to INTELLIGENCE) **UNCOMMON**
 
-## Przeciwnicy (Wielbiciele) ₊˚⊹♡
-_Mężczyźni napotkani przez Emme podczas jej podróży._
+## Enemies (Admirers) ₊˚⊹♡
+_Men encountered by Emma during her journey._
 
-- Mają takie same cechy jak Emma
+- Have the same traits as Emma.
 
-- Każdy posiada słabośc, która jest jedną z cech
+- Each has a weakness, which is one of Emma's traits.
 
-- Nie mają ekwipunku
+- Do not have an inventory.
 
-- Na początku uciekają od Emmy, boją się jej. Po podbiciu ich serc przez Emme, stoją w miejscu.
+- Initially flee from Emma, fearing her. After being won over by Emma, they stand still.
 
-#Rodzaje wielbicieli i ich słabości:
+#Types of admirers and their weaknesses:
 
-- Manipulacja - wielbiciel z taką słabością jest łatwiejszy do pokonania przy większej ilości punktów dodanych do tej cechy Emmy, potrzebna jest również łaska wszechświata, aby podczas losowania dialogów pokazała się manipulacja. Taka sama zasada odnosi się do pozostałych słabości:
+- Manipulation - an admirer with this weakness is easier to defeat with more points added to this trait by Emma, also requires the universe's grace to display manipulation during dialogue selection. The same principle applies to the other weaknesses:
 
-- Urok
+- Charm
 
-- Charyzma
+- Charisma
  
-- Inteligencja 
+- Intelligence 
 
 
-# ♛✧˖ °Książe - Main Boss° ˖✧♛
+# ♛✧˖ °Prince - Main Boss° ˖✧♛
 
-- Możliwy do pokonania tylko po wcześniejszym wzmocnieniu EGO
+- Can only be defeated after boosting EGO
 
-- Znajduje się na ostatnim poziomie
+- Located on the final level
 
-- Bardzo silny gentleman
+- Very strong gentleman
 
-# Opis Walki (˵ •̀ ᴗ - ˵ )ﾉ• *₊°。(˶‾᷄ ⁻.‾᷅˵)ᵉʷ
+# Battle Description (˵ •̀ ᴗ - ˵ )ﾉ• *₊°。(˶‾᷄ ⁻.‾᷅˵)ᵉʷ
 
-- Emma rozpoczyna grę z jednym punktem EGO, reszta statystyk ma 1 punkt
+- Emma starts the game with one EGO point, other stats have 1 point each.
 
-- Zdobywanie EGO umożliwia dodawanie punktów do cech
+- Gaining EGO allows adding points to traits.
 
-- Na początku spotyka słabych przeciwników (mają takie same statystki jak ona)
+- Initially encounters weak opponents (with the same stats as her).
 
-- O wyniku walki w pewnej części decyduje losowość (rzut kością)
+- The outcome of battle partly depends on randomness (dice roll).
 
-- Emma i przeciwnik posiadają **33 punktów życia**. Potyczka słowna trwa do czasu aż jedno z nich będzie miało życie<=0
+- Emma and the opponent have **33 life points**. Verbal clash continues until one has life<=0.
 
-- Po rozpoczęciu walki, opcje dialogowe są losowane pod względem _cech_ i gracz powinien wybierać te, przy których ma więcej punktów. Wybranie opcji dialogowej, która odpowiada słabośći wielbiciela powoduje, że Emma zadaje więcej obrażeń
+- During battle, dialogue options are randomly selected based on _traits_, and the player should choose those with more points. Selecting a dialogue option corresponding to the admirer's weakness causes Emma to deal more damage.
 
-- Początkowa kwestia wielbiciela wskazuje na jego słabość
+- The initial admirer's line indicates their weakness.
 
-- Jeśli gracz wybierze opcje dialogową, w której jest słaby, a wielbiciel silniejszy, duma Emmy zostaje urażona i traci punkty życia
+- If the player chooses a dialogue option where Emma is weak and the admirer is stronger, Emma's pride is hurt and she loses life points.
 
-- Obrażenia składają się na **punkty dodane do cech przez EGO+punkty z przedmiotów+dodatkowe punkty za wybranie słabości** 
+- Damage consists of **points added to traits by EGO+points from items+additional points for choosing weaknesses** 
 
-- Rzut kością to mnożnik obrażeń. Odpowiedzi Emmy nie zawsze brzmią tak jak w jej głowie, może się jąkać albo zakrztusić co oznacze, że wylosowała _jeden_ na kości, lub wypowiedzieć kwestie idealnie co odpowiada _trójce_ na kości
+- Dice roll serves as a damage multiplier. Emma's responses may not always be as intended, she may stutter or choke, indicating a _one_ on the die, or deliver lines perfectly, which corresponds to a _three_ on the die.
 
-**Przykład ataku:**
-Wybrana opcja dialogowa: MANIPULACJA
-Obrażenia: (+5pkt ze statystyk, +2pkt z przedmiotów, +3pkt za bycie słabością wielbiciela) * rzut kością (od 1 do 3) 
+**Example attack:**
+Selected dialogue option: MANIPULATION
+Damage: (+5 points from stats, +2 points from items, +3 points for exploiting admirer's weakness) * dice roll (1 to 3) 
 
 5+2+3 = 10 
-10 * 3 = 30 obrażeń
+10 * 3 = 30 damage
 
-- Obrażenia wielbiciela: **punkty z cech * rzut kości**ą (nie posiadają ekwipunku i nie obchodzi ich słabość Emmy)
+- Admirer's damage: **trait points * dice roll** (they have no inventory and don't care about Emma's weaknesses)
 
-- Jeśli okaże się, że ostateczne obrażenia są mniejsze niż wielbiciela to Emmie zostają odjete punkty życia zgodne z atakiem przeciwnika 
+- If final damage turns out to be less than admirer's, Emma loses life points according to the opponent's attack 
+
 
