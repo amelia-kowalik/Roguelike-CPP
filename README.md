@@ -85,7 +85,7 @@ _Men encountered by Emma during her journey._
 
 - Initially flee from Emma, fearing her. After being won over by Emma, they stand still.
 
-#Types of admirers and their weaknesses:
+# Types of admirers and their weaknesses:
 
 - Manipulation - an admirer with this weakness is easier to defeat with more points added to this trait by Emma, also requires the universe's grace to display manipulation during dialogue selection. The same principle applies to the other weaknesses:
 
@@ -137,4 +137,14 @@ Damage: (+5 points from stats, +2 points from items, +3 points for exploiting ad
 
 - If final damage turns out to be less than admirer's, Emma loses life points according to the opponent's attack 
 
+# From the game
+<div align="center">
+<img width="622" alt="Zrzut ekranu 2024-10-19 111541" src="https://github.com/user-attachments/assets/e58575cb-2a76-44c2-b4d1-86fc86154cb7">
 
+<img width="179" alt="Zrzut ekranu 2024-10-19 111647" src="https://github.com/user-attachments/assets/284eda8c-b4b2-4d9e-b00e-c64eee8eeb4a">
+
+
+![image](https://github.com/user-attachments/assets/95daee79-c93c-4e4a-b4ba-2ea9c8902288)
+
+![image](https://github.com/user-attachments/assets/98f59b8c-90f1-4da2-9a40-35d38a21d203)
+<div/>
